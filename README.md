@@ -10,7 +10,7 @@ Measurements of electric power consumption in one household with a one-minute sa
 The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
 
 </br>
-### 1.Date:
+<b> 1.Date:</b>
 Date in format dd/mm/yyyy
 </br>
 ### 2.Time:
